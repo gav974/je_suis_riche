@@ -88,6 +88,13 @@ flutter:
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
 
-flutter:
   assets:
     - asset/
+
+
+  fonts:
+        - family: Raleway
+          fonts:
+            - asset: asset/font/Raleway-Regular.ttf
+            - asset: asset/font/Raleway-Italic.ttf
+
